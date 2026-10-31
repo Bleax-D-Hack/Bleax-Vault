@@ -1,0 +1,8 @@
+/* 
+ * Strict Inline-Styles policy enforced.
+ * External stylesheets are bypassed to mitigate DOM/CSS injection vulnerabilities.
+ */
+body {
+    margin: 0;
+    padding: 0;
+}
